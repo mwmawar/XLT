@@ -1,0 +1,12 @@
+{
+    Cars: [
+        {
+            "CarType": "BMW",
+            "carID": "bmw123"
+        },
+        {
+            "CarType": "Mercedes",
+            "CarID": "merc123"
+        }
+    ]
+}
